@@ -21,9 +21,7 @@
 ---
 
 ### GitHub Stats
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=dhruviacharya)](https://github.com/stats-organization/github-stats-extended" />
-</p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilacharya&theme=default" />
 </p>
