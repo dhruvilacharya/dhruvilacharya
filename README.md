@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dhruvil!!!</h1>
 
-<!--
-**dhruvilacharya/dhruvilacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate student diving deep into tech</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Always+Learning+Something+New;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- I'm currently learning Web Development, Data Structures, Machine Learning
+- Looking to collaborate on open-source projects
+- Reach me at: **dhruvilacharya3007@gmail.com
+
+
+---
+
+### Skills & Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,rust,vite,c" />
+</p>
+
+> 💡 Replace the icon list above with your actual stack — full list of supported icons at [skillicons.dev](https://skillicons.dev)
+
+---
+
+### 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=default" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=default" />
+  </a>
+</p>
+
+<br clear="both">
+
+> 💡 Replace `PROJECT_ONE` / `PROJECT_TWO` with your actual repo names — these render as live pinned-repo cards.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dhruvil-acharya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvilacharya3007@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Star some repos if you find them useful.</i></p>
