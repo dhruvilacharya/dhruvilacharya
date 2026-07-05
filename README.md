@@ -28,10 +28,10 @@
 ### 📌 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/EventTicketPlatform">
+  <a href="https://github.com/dhruvilacharya/EventTicketPlatform">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=default" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/speechai">
+  <a href="https://github.com/dhruvilacharya/speechai">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=default" />
   </a>
 </p>
@@ -43,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvilacharya&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilacharya&layout=compact&theme=default" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilacharya&theme=default" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dhruvilacharya&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Star some repos if you find them useful.</i></p>
