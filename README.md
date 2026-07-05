@@ -20,23 +20,9 @@
 
 ---
 
-### Featured Projects
-<p align="left">
-  <a href="https://github.com/dhruvilacharya/EventTicketPlatform">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvilacharya&repo=EventTicketPlatform&theme=default" />
-  </a>
-  <a href="https://github.com/dhruvilacharya/speechai">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvilacharya&repo=speechai&theme=default" />
-  </a>
-</p>
-<br clear="both">
-
----
-
 ### GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvilacharya&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvilacharya&layout=compact&theme=default" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dhruviacharya)](https://github.com/stats-organization/github-stats-extended" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilacharya&theme=default" />
