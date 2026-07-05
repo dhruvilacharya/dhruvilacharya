@@ -3,7 +3,7 @@
 <h3 align="center">A passionate student diving deep into tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Always+Learning+Something+New;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Always+Learning+Something+New;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,24 +23,20 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,rust,vite,c" />
 </p>
 
-> 💡 Replace the icon list above with your actual stack — full list of supported icons at [skillicons.dev](https://skillicons.dev)
-
 ---
 
 ### 📌 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+  <a href="https://github.com/YOUR_USERNAME/EventTicketPlatform">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=default" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+  <a href="https://github.com/YOUR_USERNAME/speechai">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=default" />
   </a>
 </p>
 
 <br clear="both">
-
-> 💡 Replace `PROJECT_ONE` / `PROJECT_TWO` with your actual repo names — these render as live pinned-repo cards.
 
 ---
 
