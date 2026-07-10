@@ -20,12 +20,15 @@
 
 ---
 
-### GitHub Stats
+###
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvilacharya&theme=default" />
-</p>
+![Dhruvil's GitHub stats](https://github-stats-extended.vercel.app/api?username=dhruvilacharya&show_icons=true&theme=radical)
+---
+---
 
+### 
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dhruvilacharya&show_icons=true&theme=radical)
 ---
 
 ### Connect With Me
